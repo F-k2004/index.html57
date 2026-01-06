@@ -11,7 +11,7 @@ canvas{display:block}
  padding:14px 18px;border-radius:14px;
  background:rgba(255,255,255,0.06);
  backdrop-filter:blur(10px);
- olor:#d9f3ff;font-size:13px;min-width:360px;
+ color:#d9f3ff;font-size:13px;min-width:360px;
 }
 .good{color:#9ff0ff}
 .mid{color:#ffd29f}
